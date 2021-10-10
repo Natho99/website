@@ -30,7 +30,7 @@
                 <i class="fas fa-phone-volume"></i>
             </div>
             <div class="banner-image">
-                <img src="Images/WhatsApp Image 2021-10-07 at 5.32.24 PM.jpeg " alt="logo" width="216px" height="100%">
+                <img src="Images/b.jpeg " alt="logo" width="216px" height="100%">
             </div>
             <div style="padding-left:60px ;" class="Email-wrapper">
                 Nathan Kimutai  
