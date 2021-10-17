@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div id="holder"><a href="https://wa.me/254700423736?
-		text=Congratulations%20 Nathan%20Good%20work%20!"> <img src="c.jpg " width="130px" height="100px"></a>
+		text=Congratulations%20Nathan%20Good%20work%20!"> <img src="c.jpg " width="130px" height="100px"></a>
 		 <div id="header">
 		 
     <ul>
