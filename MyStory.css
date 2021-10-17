@@ -2,6 +2,8 @@ body{
 	margin:0px;
 	padding:0px;
 	background-color: turquoise;
+    
+	width:auto ;
 	}
 #holder{
 	border:0px solid;
@@ -58,10 +60,4 @@ body{
 	text-align:center;
 	width:1365px;
 	height:550px;
-}
-#p{
-	width:1500;
-	height:2000px;
-	background-color:#FFF380;
-	text-align:center;
 }

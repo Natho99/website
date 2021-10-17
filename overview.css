@@ -2,6 +2,7 @@ body{
 	margin:0px;
 	padding:0px;
 	background-color:turquoise;
+	width: auto;
 	}
 #holder{
 	border:0px solid;
